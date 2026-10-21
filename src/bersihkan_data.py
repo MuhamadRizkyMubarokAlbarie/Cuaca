@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 
 # 1. Gabungkan semua file mentah (sesuaikan ekstensi: .xlsx atau .csv)
-berkas = sorted(glob.glob("data/raw/*.xlsx"))
+berkas = sorted(glob.glob("data/raw/grafik-tahunan-ketersedi.csv"))
 df = pd.concat([pd.read_excel(f) for f in berkas], ignore_index=True)
 
 # 2. Standarkan tanggal dan curah hujan (sesuaikan nama kolom dengan file kamu)
