@@ -34,6 +34,3 @@ Sumber Data
 
 Bahasa Pemrograman
 Python (pandas, numpy, scipy, matplotlib)
-
-## 4. Cara Menjalankan
-...
