@@ -11,19 +11,12 @@ dijalankan dengan metode Monte Carlo.
 
 ## 2. Sumber Data
 - Sumber: BMKG Data Online (https://dataonline.bmkg.go.id)
-- Stasiun: ...
-- Rentang data: ...
-- Tanggal unduh: ...
+- Stasiun: Staisun Meteorologi Citeko
+- Rentang data: 2023-2026
+- Tanggal unduh: 22-10-2026
 
 ## 3. Bahasa Pemrograman
 Python (pandas, numpy, scipy, matplotlib)
 
-## 4. Keterlibatan AI
-| Bagian | Peran AI | Persentase |
-|---|---|---|
-| ... | ... | ... |
-
-Total: ...% (maks. 20%). Bukti: [docs/ai-log](docs/ai-log/)
-
-## 5. Cara Menjalankan
+## 4. Cara Menjalankan
 ...
